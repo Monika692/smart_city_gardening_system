@@ -1,4 +1,4 @@
-Code:
+// Code:
 #include"DHT.h"
 #define DHTPIN 2 //Digital pin connected 
 to the DHT sensor
